@@ -12,6 +12,7 @@ header{
 }
 
 h1{
+    border-bottom: groove 5px rgb(26, 252, 82);
     padding: 10px;
     font-size: 20px;
     color: rgb(255, 13, 0)
